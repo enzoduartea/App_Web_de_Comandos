@@ -1,0 +1,28 @@
+body {
+    background:  conic-gradient( #f49848, #f8e85a, #f27285, #f67aff, #6558f9, #87eba7, #c5e6ad, #B0E0E6, #f49848, #f8e85a, #f27285, #f67aff, #6558f9, #87eba7, #c5e6ad, #B0E0E6);
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0; 
+    margin: 0; /* Remova as margens padrão */
+    padding: 0; /* Remova o preenchimento padrão */
+  }
+  
+  span {
+    font-size: 18px;
+    color: red;
+  }
+  canvas {
+    background: linear-gradient(to right top, #FFDAB9, #FFC0CB, #FFB6C1, #FFA07A, #FF8C00, #87CEEB, #ADD8E6, #B0E0E6);
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 1000;
+    height: 1000; 
+  }
+  h3 {
+    font-family: Roboto; /* Escolha uma fonte atraente */
+    font-size: 24px; /* Tamanh099*/
+    background-image: linear-gradient(to right, #f49848, #f8e85a, #f27285, #f67aff, #6558f9, #87eba7, #c5e6ad, #B0E0E6, #f49848, #f8e85a, #f27285, #f67aff, #6558f9, #c5e6ad, #B0E0E6);
+
+  }
+  
